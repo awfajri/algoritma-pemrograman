@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://id.linkedin.com/in/auf-fajri-ramadhani-556528274">Auf Fajri Ramadhani</a></h1>
 <div align="center">
 
-[![jasineri/gitartwork](gitartwork.svg)](https://github.com/awfajri/awfajri)
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/awfajri/algoritma-pemrograman)
 
 </div>
 <div align="center">
